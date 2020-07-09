@@ -1,0 +1,10 @@
+{
+  "donor_aadhar": "String",
+  "donor_name": "String",
+  "blood_group": "A+, A-, B+, B-, AB+, AB-, O+, O-",
+  "donation_date": "yyyy-MM-dd",
+  "donor_status": "String",
+  "donor_mobile_number": "String",
+  "donor_email": "String",
+  "donation_status": "Approved, Rejected"
+}
